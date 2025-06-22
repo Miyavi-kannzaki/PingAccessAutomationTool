@@ -642,7 +642,7 @@ class TemplateGeneratorFrame(ctk.CTkFrame):
         self.TEMPLATE_NAMES = list(self.TEMPLATES.keys())
         
         self.VISIBILITY_MAP = {
-            "回線 SS既存": ["name", "company", "worker", "phone"],
+            "回線 既存": ["name", "company", "worker", "phone"],
             "回線 新築":   ["name", "company", "worker", "phone", "power"],
             "PT 新築":    ["name", "company", "worker", "phone", "ap_count", "power"],
             "回線 SIM":   ["name", "company", "worker", "phone"],
