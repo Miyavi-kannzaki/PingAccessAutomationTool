@@ -25,7 +25,7 @@ CustomTkinter 製の GUI ツールで、ネットワーク機器（RT/HUB/AP）�
 
 ## 📸 スクリーンショット
 
-![操作画面1](assets/screenshot1.png)
+![操作画面](./assets/screenshot1.png)
 
 ※必要に応じて他の画面も追加可能です（例：文章生成 UI やログ表示画面）
 
